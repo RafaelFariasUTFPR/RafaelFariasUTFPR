@@ -145,16 +145,21 @@ body{
 }
 
 .acess-box{
-    height: 60%;
-    margin-top: 12vh;
+    height: 50%;
+    margin-top: 15vh;
     background: #0F3460;
     border-radius: 50px;
-    min-height: 200px;    
+    min-height: 50px;    
+
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+        
     
 }
 
 .acess-box h1{
-    padding-top: 8vh;
+    padding-top: 10vh;
     text-align: center;
     margin-left: 2vw;
     margin-right: 2vw;
@@ -164,17 +169,50 @@ body{
 }
 
 .acess-button{
-    position: relative;
+    position: absolute;
     background-color: #E94560;
     border: none;
-    color: white;
-    bottom: 100 px;
-    padding: 15px 32px;
+    left: 24%;
+    color: #F3A5B2;
+    right: inherit;
+    font-weight: bold;
+    top: 38%;
+    padding: 6vh 3vw;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 2.8vw;
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 25px;
+    min-height: 20px;
+    transition: 300ms;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.acess-button:hover{
+    transform: translateY(-8px);
+    background-color: #ce4158;
+}
+
+
+.repository-btn{
+    position: absolute;
+    background-image: url(images/GithubIcon.png); 
+    left: 35%;
+
+    margin-top: 10px;
+    background-repeat: no-repeat;  
+    background-color: transparent;
+    background-position: 0px 0px;  
+    background-size: 100%;
+    border: none;           
+    cursor: pointer;        
+    height:9.5vw; 
+    width:8vw;    
+    transition: 300ms;      
+    
+}
+.repository-btn:hover{
+    transform: translateY(-8px);
 }
