@@ -57,13 +57,28 @@ document.getElementById("acess-button").onclick = function () {
     switch(currentProject)
     {
         case "radio-de-galena":
-            window.location.href ="projects/SimulacaoGalena/SimulacaoGalena.html"
+            window.open("projects/SimulacaoGalena/SimulacaoGalena.html", '_blank').focus();
         break;
         case "hefestus-academy": 
-        window.open("https://hefestusacademy.github.io/", '_blank').focus();
+            window.open("https://hefestusacademy.github.io/", '_blank').focus();
         break;
         case "biblioteca-de-projetos":
+            window.open("index.html", '_blank').focus();
+        break;  
+    }
+};
 
+document.getElementById("repository-btn").onclick = function () {
+    switch(currentProject)
+    {
+        case "radio-de-galena":
+            window.open("https://github.com/RafaelFariasUTFPR/RafaelFariasUTFPR.github.io/tree/master/projects/SimulacaoGalena/SimulacaoGalena", '_blank').focus();
+        break;
+        case "hefestus-academy": 
+            window.open("https://github.com/HefestusAcademy/HefestusAcademy.github.io", '_blank').focus();
+        break;
+        case "biblioteca-de-projetos":
+            window.open("https://github.com/RafaelFariasUTFPR/RafaelFariasUTFPR.github.io", '_blank').focus();
         break;  
     }
 };
