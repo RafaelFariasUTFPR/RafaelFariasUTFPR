@@ -60,7 +60,7 @@ document.getElementById("acess-button").onclick = function () {
             window.location.href ="projects/SimulacaoGalena/SimulacaoGalena.html"
         break;
         case "hefestus-academy": 
-            window.location.href = "https://hefestusacademy.github.io/";
+        window.open("https://hefestusacademy.github.io/", '_blank').focus();
         break;
         case "biblioteca-de-projetos":
 
