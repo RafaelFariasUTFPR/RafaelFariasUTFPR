@@ -51,8 +51,7 @@ body{
     position: relative;
     text-align: right;
     padding-right: 10px;
-    font-size: small;
-    
+    font-size: 1vw;
     
 }
 
@@ -70,6 +69,77 @@ body{
     box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.25);
 }
 
+/*  
+    #####################
+      Lista de projetos 
+    ##################### 
+*/
+
+
+.project-list{
+    height: 66vh;
+    width: 100%;
+    overflow: hidden;
+    overflow-y: scroll;
+    scrollbar-color: blue black;
+}
+
+li{
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+    list-style-type:none;
+}
+
+.project-btn{
+    background-color: #16213E;
+    /*background-image: url(images/GithubIcon.png);*/
+    background-repeat: no-repeat;  
+    background-position: 0px 0px;  
+    background-size: 100%;
+    border: none;           
+    cursor: pointer;        
+    height:15vh; 
+    width: 90%;  
+    transition: 150ms;
+    border-radius: 15px; 
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 1.5vw;
+    white-space: normal;
+    padding-left: 0.8vw;
+    padding-right: 0.8vw;
+    color: white;
+    
+}
+
+.project-btn:hover{
+    transform: translateY(-0.5vh);
+    background-color: #121c37;
+}
+.project-btn:active{
+    background-color: #0c101d;
+}
+
+/*Caso queira adicionar funções a um botao especifico
+pode-se fazer isso atravez do id*/
+#radio-de-galena{
+}
+
+/*  
+    #####################
+        Bottom header 
+    ##################### 
+*/
+.bottom-header{
+    padding-top: 0.6vh;
+    padding-left: 0.5vw;
+    
+}
+
+.contact{
+    vertical-align: middle;
+    color: white;
+    text-decoration: none;
+}
 
 
 /*  
@@ -186,7 +256,7 @@ body{
     cursor: pointer;
     border-radius: 25px;
     min-height: 20px;
-    transition: 300ms;
+    transition: 150ms;
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
@@ -194,7 +264,9 @@ body{
     transform: translateY(-8px);
     background-color: #ce4158;
 }
-
+.acess-button:active{
+    background-color: #a94253;
+}
 
 .repository-btn{
     position: absolute;
@@ -210,7 +282,7 @@ body{
     cursor: pointer;        
     height:9.5vw; 
     width:8vw;    
-    transition: 300ms;      
+    transition: 150ms;      
     
 }
 .repository-btn:hover{
