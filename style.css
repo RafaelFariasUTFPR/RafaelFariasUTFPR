@@ -77,7 +77,7 @@ body{
 
 
 .project-list{
-    height: 66vh;
+    height: 66%;
     width: 100%;
     overflow: hidden;
     overflow-y: scroll;
@@ -94,6 +94,9 @@ li{
     list-style-type:none;
     
 }
+
+
+  
 
 .project-btn{
     background-color: #16213E;
@@ -117,6 +120,7 @@ li{
     
 }
 
+
 .project-btn:hover{
     transform: translateY(-0.5vh);
     background-color: #121c37;
@@ -126,9 +130,20 @@ li{
 }
 
 /*Caso queira adicionar funções a um botao especifico
-pode-se fazer isso atravez do id*/
+pode-se fazer isso atravez do id
 #radio-de-galena{
 }
+*/
+#em-breve{
+    margin-bottom: 8vh;
+    cursor: auto;
+    background-color: #272a34;
+}
+#em-breve:hover{
+    transform: translateY(-0);
+    background-color: #272a34;
+}
+
 
 /*  
     #####################
@@ -235,11 +250,11 @@ pode-se fazer isso atravez do id*/
 }
 
 .acess-box h1{
-    padding-top: 10vh;
+    padding-top: 8vh;
     text-align: center;
     margin-left: 2vw;
     margin-right: 2vw;
-    
+    vertical-align: middle;
     font-size: 2.3vw;
     
 }
