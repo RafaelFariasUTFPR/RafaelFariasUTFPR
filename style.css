@@ -142,6 +142,8 @@ pode-se fazer isso atravez do id
     margin-bottom: 8vh;
     cursor: auto;
     background-color: #272a34;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.25);
+    color: gray;
 }
 #em-breve:hover{
     transform: translateY(-0);
