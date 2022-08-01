@@ -219,7 +219,7 @@ pode-se fazer isso atravez do id
 
 .project-description{
     padding-top: 30px;
-    font-size: calc(0.9vw + 0.8vh);
+    font-size: calc(0.9vw + 0.9vh);
     
 }
 
@@ -325,14 +325,15 @@ pode-se fazer isso atravez do id
         position: absolute;
         align-items: center;
         width: 100%;
-        height: 20%;
+        height: 20vh;
         left: 0px;
         top: 0px;
+        background-color: #1A1A2E;
         
     }
 
     .upper-header{
-        width:  30%;
+        width:  24%;
         height: 100%;
         left: 0px;
         top: 0px;
@@ -345,7 +346,7 @@ pode-se fazer isso atravez do id
         display: flex;
         justify-content: center;
         align-items: center;
-        padding-top: 15%;
+        padding-top: 5%;
         height: 85%;
         width: 100%;
         
@@ -475,6 +476,7 @@ pode-se fazer isso atravez do id
     .bottom-header{
         padding-top: 0.1vh;
         padding-left: 0.5vw;
+        z-index: 1;
         
     }
 
@@ -509,7 +511,7 @@ pode-se fazer isso atravez do id
         background-size: 200%;
         background-position: -50px;
         background-position-x: -800px;
-        
+        background-repeat: repeat;
         z-index: -2;
     }
     .project-details{
@@ -556,21 +558,21 @@ pode-se fazer isso atravez do id
 
 
     .link-container{
-        position: absolute;
-        width:  32.5%;
-        height: 100%;
+        position:absolute;
+        width:  15Vh;
+        height: 40vh;
         right: 0px;
-        top: 0px;
-        padding-right:3vw;
-        padding-left: 3vw;
+        top:-12vh;
+        padding-right: 0px;
+        padding-left: 0px;
         
     }
 
     .acess-box{
         height: 50%;
-        margin-top: 15vh;
+        margin-top: 0px;
         background: #0F3460;
-        border-radius: 50px;
+        border-radius: 6vw 6vw 0px 0px;
         min-height: 50px;    
 
         box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
@@ -581,32 +583,34 @@ pode-se fazer isso atravez do id
     }
 
     .acess-box h1{
-        padding-top: 8vh;
+        padding-top: 4vh;
         text-align: center;
         margin-left: 2vw;
         margin-right: 2vw;
         vertical-align: middle;
-        font-size: 2.3vw;
+        font-size: 3.5vw;
         
     }
 
     .acess-button{
-        position: absolute;
+        position: fixed;
         background-color: #E94560;
         border: none;
-        left: 24%;
+        left:auto;
+        right: 0px;
+        top: auto;
+        bottom: 0%;
         color: #F3A5B2;
         right: inherit;
         font-weight: bold;
-        top: 38%;
-        padding: 6vh 3vw;
+        padding: 4vh 3vw;
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 2.8vw;
-        margin: 4px 2px;
+        font-size: 3vw;
+        margin: 2vh 5px;
         cursor: pointer;
-        border-radius: 25px;
+        border-radius: 6vw;
         min-height: 20px;
         transition: 150ms;
         box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
@@ -621,11 +625,11 @@ pode-se fazer isso atravez do id
     }
 
     .repository-btn{
-        position: absolute;
+        position: relative;
         background-image: url(images/GithubIcon.png); 
         left: 35%;
-
-        margin-top: 10px;
+        bottom: 20%;
+        margin-top: 0px;
         background-repeat: no-repeat;  
         background-color: transparent;
         background-position: 0px 0px;  
