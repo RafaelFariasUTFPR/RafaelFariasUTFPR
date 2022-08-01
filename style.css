@@ -11,7 +11,7 @@ body{
 
 ::-webkit-scrollbar{
     width: 15px;
-    height: 15px;
+    height: 10px;
 }
 ::-webkit-scrollbar-track{
     background-color: rgba(0, 0, 0, 0.1);
@@ -19,6 +19,22 @@ body{
 
 ::-webkit-scrollbar-thumb{
     background-color: #0F3460;
+}
+
+@media only screen and (hover: none) and (pointer: coarse){
+
+    ::-webkit-scrollbar{
+        width: unset;
+        height: unset;
+    }
+    ::-webkit-scrollbar-track{
+        background-color: unset;
+    }
+    
+    ::-webkit-scrollbar-thumb{
+        background-color: unset;
+    }
+    
 }
 
 
