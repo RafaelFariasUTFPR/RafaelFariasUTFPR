@@ -9,6 +9,17 @@ body{
     color:white;
 }
 
+::-webkit-scrollbar{
+    width: 15px;
+    height: 15px;
+}
+::-webkit-scrollbar-track{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #0F3460;
+}
 
 
 .left-container{
