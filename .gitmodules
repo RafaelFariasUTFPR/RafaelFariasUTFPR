@@ -1,0 +1,3 @@
+[submodule "SimulacaoRadioDeGalena"]
+	path = SimulacaoRadioDeGalena
+	url = https://github.com/RafaelFariasUTFPR/SimulacaoRadioDeGalena.git
