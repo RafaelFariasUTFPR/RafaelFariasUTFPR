@@ -2,13 +2,14 @@ import jsonFile from './pages.json' assert {type: 'json'};
 
 
 
-let currentProject = jsonFile.project;
-
 const projectDescription = document.getElementById("project-description");
 const projectImage = document.getElementById("project-image");
 const projectName = document.getElementById("project-name");
 const projectListUl = document.getElementById("project-list-ul");
 
+
+
+let currentProject = jsonFile[0].project;
 let lists = [];
 let btns = [];
 

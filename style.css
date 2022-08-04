@@ -208,6 +208,7 @@ pode-se fazer isso atravez do id
     height: 100%;
     right: 0px;
     top: 0px;
+    
 
 }
 .project-details-background{
@@ -228,7 +229,7 @@ pode-se fazer isso atravez do id
     left: 0px;
     top: 0px;
     padding-left: 3vw;
-    padding-top: 12vh;
+    padding-top: 12vh; 
 
 }
 
@@ -250,6 +251,7 @@ pode-se fazer isso atravez do id
 
 .project-description{
     padding-top: 30px;
+    padding-bottom: 12vh;
     font-size: calc(0.9vw + 0.9vh);
     
 }

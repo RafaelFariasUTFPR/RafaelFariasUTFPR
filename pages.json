@@ -2,7 +2,7 @@
     {
         "project": "radio-de-galena",
         "projectName": "Simulação Rádio de Galena",
-        "description": "Este projeto foi desenvolvido para a materia de Fisica 3, o objetivo é realizar a simulação da operação de um rádio de galena. Este programa realiza a simulação dês da criação do sinal por uma transmissora AM, até a captação, retificação de demodulação do sinal.<br><br>Para a realização deste trabalho foi utilizado a engine de jogos Godot, mais informações podem ser encontradas no repositório do projeto.",
+        "description": "Este projeto foi desenvolvido para a disciplina de Física 3 em 2022/1, o objetivo é realizar a simulação da operação de um rádio de galena, aplicando de forma prática os conteúdos estudados ao longo da matéria.<br><br>Esta web aplicação realiza a simulação do funcionamento de uma estação AM e de um rádio de galeria, simulando assim a geração do sinal AM, transmissão das ondas, sintonização, retificação, filtragem e demodulação do sinal. Apresenta também uma breve descrição da manipulação de sinal realizada por cada componente do rádio de galena.<br><br>Para a realização deste trabalho foi utilizado a engine de jogos Godot, programando na linguagem nativa da ferramenta, o GDScript, mais informações podem ser encontradas no repositório do projeto.",
         "imagePath": "images/Projeto1img.png",
         "acessLink": "projects/SimulacaoGalena/SimulacaoGalena.html",
         "repoLink": "https://github.com/RafaelFariasUTFPR/RafaelFariasUTFPR.github.io/tree/master/projects/SimulacaoGalena/SimulacaoGalena"
