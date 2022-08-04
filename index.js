@@ -98,5 +98,3 @@ document.getElementById("repository-btn").onclick = function () {
             window.open(page.repoLink, '_blank').focus();
     });
 };
-
-
