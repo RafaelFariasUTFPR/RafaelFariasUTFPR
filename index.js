@@ -70,7 +70,7 @@ function updateContents()
     });
 }
 
-
+//Recebendo input dos botoes
 jsonFile.forEach(element => {
     document.getElementById(element.project).onclick = function(){
         currentProject = element.project;
