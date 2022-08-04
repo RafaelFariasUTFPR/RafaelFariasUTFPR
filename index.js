@@ -66,6 +66,13 @@ function updateContents()
             projectDescription.innerHTML = page.description;
             projectImage.src = page.imagePath;
             projectName.innerHTML= page.projectName;
+
+            //Alterando a visibilidade do botão de repositorio
+            //Dependendo se ha um link ou um "#" 
+            document.getElementById("repository-btn").style.display='block';
+            if(page.repoLink == "#")
+                document.getElementById("repository-btn").style.display='none';
+
         }
     });
 }

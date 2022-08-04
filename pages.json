@@ -22,5 +22,13 @@
         "imagePath": "images/Projeto3img.png",
         "acessLink": "index.html",
         "repoLink": "https://github.com/RafaelFariasUTFPR/RafaelFariasUTFPR.github.io"
+    },
+    {
+        "project": "artigos-publicados",
+        "projectName": "Artigos Publicados",
+        "description": "Em breve",
+        "imagePath": "",
+        "acessLink": "#",
+        "repoLink": "#"
     }
 ]
