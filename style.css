@@ -545,28 +545,42 @@ pode-se fazer isso atravez do id
     .right-container{
         position: relative;
         width: 100%;
-        height: fit-content;
+        height: max(auto, 100vh);
         left: 0px;
         top: 20vh;
         margin-bottom: 12vh;
         display: flex;
         
+        
 
     }
 
-
+    .project-details-background{
+        position: fixed;
+        width: inherit;
+        height: inherit;
+        background: url("images/ProjectDetailsBG.svg");
+        top: 0px; 
+        background-repeat: repeat;
+        background-size: 200%;
+        background-position: -50px;
+        background-position-x: -800px;
+        z-index: -2;
+    }
 
     .project-details{
         position: relative;
         width:  100%;
-        height: fit-content;
+        height: inherit;
         left: 0px;
         top: 0px;
+        /*
         background: url("images/ProjectDetailsBG.svg");
         background-size: 200%;
         background-position: -50px;
         background-position-x: -800px;
         z-index: -2;
+        */
         padding-left: 5vw;
         padding-right: 5vw;
         padding-top: 6vh;
