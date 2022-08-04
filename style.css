@@ -251,7 +251,7 @@ pode-se fazer isso atravez do id
 
 .project-description{
     padding-top: 30px;
-    padding-bottom: 12vh;
+    padding-bottom: 10%;
     font-size: calc(0.9vw + 0.9vh);
     
 }
@@ -610,6 +610,8 @@ pode-se fazer isso atravez do id
     .project-description{
         padding-top: 30px;
         font-size: 16px;
+
+        padding-bottom: 0px;
     }
 
 

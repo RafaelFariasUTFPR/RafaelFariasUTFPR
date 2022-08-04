@@ -2,7 +2,7 @@
     {
         "project": "radio-de-galena",
         "projectName": "Simulação Rádio de Galena",
-        "description": "Este projeto foi desenvolvido para a disciplina de Física 3 em 2022/1, o objetivo é realizar a simulação da operação de um rádio de galena, aplicando de forma prática os conteúdos estudados ao longo da matéria.<br><br>Esta web aplicação realiza a simulação do funcionamento de uma estação AM e de um rádio de galeria, simulando assim a geração do sinal AM, transmissão das ondas, sintonização, retificação, filtragem e demodulação do sinal. Apresenta também uma breve descrição da manipulação de sinal realizada por cada componente do rádio de galena.<br><br>Para a realização deste trabalho foi utilizado a engine de jogos Godot, programando na linguagem nativa da ferramenta, o GDScript, mais informações podem ser encontradas no repositório do projeto.",
+        "description": "Este projeto foi desenvolvido para a disciplina de Física 3 em 2022/1, o objetivo é realizar a simulação da operação de um rádio de galena, aplicando de forma prática os conteúdos estudados ao longo da matéria.<br><br>Esta web aplicação realiza a simulação do funcionamento de uma estação AM e de um rádio de galeria, simulando assim a geração do sinal AM, transmissão das ondas, sintonização, retificação, filtragem e demodulação do sinal. Apresenta também uma breve descrição da manipulação de sinal realizada por cada componente do rádio de galena.<br><br>Para a realização deste trabalho foi utilizado a engine de jogos e aplicativos Godot, programando na linguagem nativa da ferramenta, o GDScript, mais informações podem ser encontradas no repositório do projeto.",
         "imagePath": "images/Projeto1img.png",
         "acessLink": "projects/SimulacaoGalena/SimulacaoGalena.html",
         "repoLink": "https://github.com/RafaelFariasUTFPR/RafaelFariasUTFPR.github.io/tree/master/projects/SimulacaoGalena/SimulacaoGalena"
@@ -10,7 +10,7 @@
     {
         "project": "hefestus-academy",
         "projectName": "Hefestus Academy",
-        "description": "Em breve",
+        "description": "Web aplicação desenvolvida para o evento Robot Arena Live, no ano de 2021, Robot Arena é um evento organizado semestralmente pela equipe de robótica da UTFPR campus Toledo, Hefestus. Este evento busca trazer para a região uma oportunidade de participar de competições de robótica, assim como agregar conhecimento técnico aos interessados.<br><br>O aplicativo foi desenvolvido de forma a introduzir conceitos das linguagem de programação C para os participantes do mini-curso. Abordando os tópicos de: introdução, sintaxe, condicionais, loops, funções e vetores.<br><br>Para a realização deste trabalho foi utilizado a engine de jogos e aplicativos Godot, programando na linguagem nativa da ferramenta, o GDScript, mais informações podem ser encontradas no repositório do projeto.",
         "imagePath": "images/Projeto2img.png",
         "acessLink": "https://hefestusacademy.github.io/",
         "repoLink": "https://github.com/HefestusAcademy/HefestusAcademy.github.io"
@@ -18,7 +18,7 @@
     {
         "project": "biblioteca-de-projetos",
         "projectName": "Biblioteca de Projetos",
-        "description": "Em breve",
+        "description": "Um website desenvolvido e mantido por Rafael Farias, sendo iniciado no 4° período do curso de Engenharia Eletrônica na UTFPR, traz um compilado de todos os projetos realizados pelo autor ao longo de sua formação.<br><br>Feito com o intuito de aprender tecnologias relacionadas ao desenvolvimento web, o código fonte está disponível no repositório deste projeto. Para dúvidas, sugestões ou mais por favor entre em contato!",
         "imagePath": "images/Projeto3img.png",
         "acessLink": "index.html",
         "repoLink": "https://github.com/RafaelFariasUTFPR/RafaelFariasUTFPR.github.io"
