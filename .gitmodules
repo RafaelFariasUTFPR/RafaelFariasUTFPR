@@ -1,3 +1,6 @@
 [submodule "SimulacaoRadioDeGalena"]
 	path = SimulacaoRadioDeGalena
 	url = https://github.com/RafaelFariasUTFPR/SimulacaoRadioDeGalena.git
+[submodule "SudokuGame"]
+	path = SudokuGame
+	url = https://github.com/RafaelFariasUTFPR/SudokuGame.git

@@ -24,6 +24,14 @@
         "repoLink": "https://github.com/RafaelFariasUTFPR/RafaelFariasUTFPR.github.io"
     },
     {
+        "project": "algoritimo-de-sudoku",
+        "projectName": "Algoritimo de Sudoku",
+        "description": "Em breve",
+        "imagePath": "",
+        "acessLink": "/SudokuGame/sudoku.html",
+        "repoLink": "https://github.com/RafaelFariasUTFPR/SudokuGame"
+    },
+    {
         "project": "artigos-publicados",
         "projectName": "Artigos Publicados",
         "description": "Em breve",
