@@ -39,4 +39,13 @@
         "acessLink": "#",
         "repoLink": "#"
     }
+    ,
+    {
+        "project": "biblioteca-de-exercicios",
+        "projectName": "Biblioteca de Exercicios",
+        "description": "Em breve",
+        "imagePath": "",
+        "acessLink": "/ExerciciosLibReact/build/index.html",
+        "repoLink": "#"
+    }
 ]
