@@ -10,8 +10,7 @@
     {
         "project": "algoritimo-de-sudoku-javascript",
         "projectName": "Algoritimo de Sudoku Javascript",
-        "description": "Desenvolvido 100% do zero como forma de pôr em prática os conhecimentos adquiridos na linguagem de programação Javascript, e criar uma plataforma de jogos de sudoku com todas as ferramentas que o autor considera pertinentes, este projeto foi criado.\n\nContém funcionalidades básicas como: Modo lápis; Marcação de células, colunas, linhas e regiões; Algoritmo resolvedor; e Modo de setup.
-",
+        "description": "Desenvolvido 100% do zero como forma de pôr em prática os conhecimentos adquiridos na linguagem de programação Javascript, e criar uma plataforma de jogos de sudoku com todas as ferramentas que o autor considera pertinentes, este projeto foi criado.\n\nContém funcionalidades básicas como: Modo lápis; Marcação de células, colunas, linhas e regiões; Algoritmo resolvedor; e Modo de setup.",
         "imagePath": "images/AlgSudokuimg.png",
         "acessLink": "/SudokuGame/",
         "repoLink": "https://github.com/RafaelFariasUTFPR/SudokuGame"
