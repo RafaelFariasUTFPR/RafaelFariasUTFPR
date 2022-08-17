@@ -28,7 +28,7 @@
         "projectName": "Algoritimo de Sudoku",
         "description": "Em breve",
         "imagePath": "",
-        "acessLink": "/SudokuGame/index.html",
+        "acessLink": "/SudokuGame/",
         "repoLink": "https://github.com/RafaelFariasUTFPR/SudokuGame"
     },
     {
@@ -45,7 +45,7 @@
         "projectName": "Biblioteca de Exercicios",
         "description": "Em breve",
         "imagePath": "",
-        "acessLink": "/ExerciciosLibReact/build/index.html",
-        "repoLink": "#"
+        "acessLink": "/ExerciciosLibReact/exercicios/",
+        "repoLink": "https://github.com/RafaelFariasUTFPR/ExerciciosLibReact"
     }
 ]

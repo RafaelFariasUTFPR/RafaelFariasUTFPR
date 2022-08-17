@@ -4,6 +4,3 @@
 [submodule "SudokuGame"]
 	path = SudokuGame
 	url = https://github.com/RafaelFariasUTFPR/SudokuGame.git
-[submodule "ExerciciosLibReact"]
-	path = ExerciciosLibReact
-	url = https://github.com/RafaelFariasUTFPR/ExerciciosLibReact.git
