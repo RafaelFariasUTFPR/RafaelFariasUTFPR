@@ -1,5 +1,21 @@
 [
     {
+        "project": "biblioteca-de-exercicios",
+        "projectName": "Biblioteca de Exercicios",
+        "description": "Em breve",
+        "imagePath": "",
+        "acessLink": "/exercicios/",
+        "repoLink": "https://github.com/RafaelFariasUTFPR/ExerciciosLibReact"
+    },
+    {
+        "project": "algoritimo-de-sudoku",
+        "projectName": "Algoritimo de Sudoku",
+        "description": "Em breve",
+        "imagePath": "",
+        "acessLink": "/SudokuGame/",
+        "repoLink": "https://github.com/RafaelFariasUTFPR/SudokuGame"
+    },
+    {
         "project": "radio-de-galena",
         "projectName": "Simulação Rádio de Galena",
         "description": "Este projeto foi desenvolvido para a disciplina de Física 3 em 2022/1, o objetivo é realizar a simulação da operação de um rádio de galena, aplicando de forma prática os conteúdos estudados ao longo da matéria.<br><br>Esta web aplicação realiza a simulação do funcionamento de uma estação AM e de um rádio de galeria, simulando assim a geração do sinal AM, transmissão das ondas, sintonização, retificação, filtragem e demodulação do sinal. Apresenta também uma breve descrição da manipulação de sinal realizada por cada componente do rádio de galena.<br><br>Para a realização deste trabalho foi utilizado a engine de jogos e aplicativos Godot, programando na linguagem nativa da ferramenta, o GDScript, mais informações podem ser encontradas no repositório do projeto.",
@@ -24,14 +40,6 @@
         "repoLink": "https://github.com/RafaelFariasUTFPR/RafaelFariasUTFPR.github.io"
     },
     {
-        "project": "algoritimo-de-sudoku",
-        "projectName": "Algoritimo de Sudoku",
-        "description": "Em breve",
-        "imagePath": "",
-        "acessLink": "/SudokuGame/",
-        "repoLink": "https://github.com/RafaelFariasUTFPR/SudokuGame"
-    },
-    {
         "project": "artigos-publicados",
         "projectName": "Artigos Publicados",
         "description": "Em breve",
@@ -39,13 +47,5 @@
         "acessLink": "#",
         "repoLink": "#"
     }
-    ,
-    {
-        "project": "biblioteca-de-exercicios",
-        "projectName": "Biblioteca de Exercicios",
-        "description": "Em breve",
-        "imagePath": "",
-        "acessLink": "/ExerciciosLibReact/exercicios/",
-        "repoLink": "https://github.com/RafaelFariasUTFPR/ExerciciosLibReact"
-    }
+
 ]

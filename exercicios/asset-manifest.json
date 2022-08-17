@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9123f939.css",
+    "main.js": "./static/js/main.9cb21cef.js",
+    "static/js/787.bdbdc009.chunk.js": "./static/js/787.bdbdc009.chunk.js",
+    "static/media/Capy.png": "./static/media/Capy.f5e54c214539d5ae2111.png",
+    "index.html": "./index.html",
+    "main.9123f939.css.map": "./static/css/main.9123f939.css.map",
+    "main.9cb21cef.js.map": "./static/js/main.9cb21cef.js.map",
+    "787.bdbdc009.chunk.js.map": "./static/js/787.bdbdc009.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9123f939.css",
+    "static/js/main.9cb21cef.js"
+  ]
+}
