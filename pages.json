@@ -4,8 +4,8 @@
         "projectName": "Biblioteca de Exercicios",
         "description": "Em breve",
         "imagePath": "",
-        "acessLink": "/exercicios/",
-        "repoLink": "https://github.com/RafaelFariasUTFPR/ExerciciosLibReact"
+        "acessLink": "/Exercicios/",
+        "repoLink": "https://github.com/RafaelFariasUTFPR/Exercicios"
     },
     {
         "project": "algoritimo-de-sudoku-javascript",
