@@ -4,3 +4,6 @@
 [submodule "SudokuGame"]
 	path = SudokuGame
 	url = https://github.com/RafaelFariasUTFPR/SudokuGame.git
+[submodule "Exercicios"]
+	path = Exercicios
+	url = https://github.com/RafaelFariasUTFPR/Exercicios.git
