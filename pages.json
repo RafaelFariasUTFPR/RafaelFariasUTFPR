@@ -16,6 +16,14 @@
         "repoLink": "https://github.com/RafaelFariasUTFPR/SudokuGame"
     },
     {
+        "project": "asteroids-sfml",
+        "projectName": "Asteroids com SFML e C++",
+        "description": "Um mini projeto com o intuito de recriar o famoso jogo de arcade Asteroids.<br><br>Feito em C++ utilizando a biblioteca gráfica SFML.",
+        "imagePath": "images/asteroids.png",
+        "acessLink": "https://github.com/RafaelFariasUTFPR/SFML_Asteroids/tree/master/bin",
+        "repoLink": "https://github.com/RafaelFariasUTFPR/SFML_Asteroids"
+    },
+    {
         "project": "radio-de-galena",
         "projectName": "Simulação Rádio de Galena",
         "description": "Este projeto foi desenvolvido para a disciplina de Física 3 em 2022/1, o objetivo é realizar a simulação da operação de um rádio de galena, aplicando de forma prática os conteúdos estudados ao longo da matéria.<br><br>Esta web aplicação realiza a simulação do funcionamento de uma estação AM e de um rádio de galeria, simulando assim a geração do sinal AM, transmissão das ondas, sintonização, retificação, filtragem e demodulação do sinal. Apresenta também uma breve descrição da manipulação de sinal realizada por cada componente do rádio de galena.<br><br>Para a realização deste trabalho foi utilizado a engine de jogos e aplicativos Godot, programando na linguagem nativa da ferramenta, o GDScript, mais informações podem ser encontradas no repositório do projeto.",
