@@ -2,8 +2,8 @@
     {
         "project": "biblioteca-de-exercicios",
         "projectName": "Biblioteca de Exercicios",
-        "description": "Em breve",
-        "imagePath": "",
+        "description": "A biblioteca de exercícios foi criada como uma ferramenta de aprendizado extra no ensino de programação. É uma plataforma que apresenta os conteúdos nela contidos de maneira gráfica e funcionalmente, possibilitando aos usuários a visualização de conteúdos de maneira intuitiva.<br><br>Esta web aplicação foi desenvolvida sem a utilização de um framework de JavaScript, seu principal ponto único é a facilidade de criação de conteúdo, uma vez que faz a leitura de arquivos do tipo Markdown, e automaticamente destaca códigos, além das funcionalidades padrão do Markdown.<br><br>Como dependências foram utilizados o MarkedJs e o PrismJs.",
+        "imagePath": "images/BibExerc.png",
         "acessLink": "/Exercicios/",
         "repoLink": "https://github.com/RafaelFariasUTFPR/Exercicios"
     },
