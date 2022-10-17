@@ -24,6 +24,14 @@
         "repoLink": "https://github.com/RafaelFariasUTFPR/SFML_Asteroids"
     },
     {
+        "project": "algoritimos-de-ordenacao",
+        "projectName": "Algoritmos de ordenação",
+        "description": "Minha interpretação do famoso visualizador de algoritmos de ordenação, contendo os seguintes algoritmos: Bubble Sort, Quick Sort e Counting Sort.<br><br>Escrito na linguagem de programação C++ e utilizando a biblioteca gráfica SFML, também fez uso da biblioteca ImGui para gerar a interface.",
+        "imagePath": "images/algoritimos.jpg",
+        "acessLink": "https://github.com/RafaelFariasUTFPR/AlgoritimosDeOrdenacao/tree/master/bin",
+        "repoLink": "https://github.com/RafaelFariasUTFPR/AlgoritimosDeOrdenacao"
+    },
+    {
         "project": "radio-de-galena",
         "projectName": "Simulação Rádio de Galena",
         "description": "Este projeto foi desenvolvido para a disciplina de Física 3 em 2022/1, o objetivo é realizar a simulação da operação de um rádio de galena, aplicando de forma prática os conteúdos estudados ao longo da matéria.<br><br>Esta web aplicação realiza a simulação do funcionamento de uma estação AM e de um rádio de galeria, simulando assim a geração do sinal AM, transmissão das ondas, sintonização, retificação, filtragem e demodulação do sinal. Apresenta também uma breve descrição da manipulação de sinal realizada por cada componente do rádio de galena.<br><br>Para a realização deste trabalho foi utilizado a engine de jogos e aplicativos Godot, programando na linguagem nativa da ferramenta, o GDScript, mais informações podem ser encontradas no repositório do projeto.",
